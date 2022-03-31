@@ -581,7 +581,7 @@ width: 20vh;
     
     .qg_element .qg_img1{
         width: 3vh;
-        margin-right: 3%;
+        margin-right: 5%;
     }
     
        .qg_element .qg_img{
@@ -1182,6 +1182,7 @@ input[name="footer_sub"]{
         line-height: 1.5;
         font-size: 1vw;
         padding-top: 3%;
+	font-family:"nunito";
     }
     
     
@@ -2313,7 +2314,7 @@ input[name="name"]{
 
 
  ::placeholder { 
-  color: #9F6642;
+   color: #F2B578;
   opacity: 1; 
      letter-spacing: 0.1em;
 }
@@ -2426,6 +2427,7 @@ input[name="footer_sub"]{
         text-align: justify;
         line-height: 1.3;
         font-size: 3vw;
+	font-family: "nunito";
     }
     
     .companyinfo{
