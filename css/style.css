@@ -1346,7 +1346,7 @@ header{
     .main_text h1{
         font-family: "Marker Felt";
         letter-spacing: 0.3rem;
-        font-size: 9vw;
+        font-size: 8vw;
         font-weight: 100;
         word-wrap: break-word;
         line-height: 1.5;
@@ -1357,7 +1357,7 @@ header{
     .main_text h2{
         font-family: "Nunito";
         letter-spacing: 0.1em;
-        font-size: 4vw;
+        font-size: 3vw;
         font-weight: 500;
         line-height: 1.4;
         margin-top: 5%;
