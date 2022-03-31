@@ -446,7 +446,8 @@ width: 20vh;
     
     
     .about_img img{
-        width: 60vh;
+        width: 35vw;
+	    height:auto;
     }
     
 
